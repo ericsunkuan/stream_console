@@ -19,3 +19,15 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# some backup files
+/Users/ericsunkuan/Desktop/NTUEE/113-2/ds3/streaming/openai-realtime-console/server/orchestrator_back1.js
+/Users/ericsunkuan/Desktop/NTUEE/113-2/ds3/streaming/openai-realtime-console/server/orchestrator_back2.js
+/Users/ericsunkuan/Desktop/NTUEE/113-2/ds3/streaming/openai-realtime-console/server/orchestrator_back3.js
+/Users/ericsunkuan/Desktop/NTUEE/113-2/ds3/streaming/openai-realtime-console/server/orchestrator_backup_0504.js
+/Users/ericsunkuan/Desktop/NTUEE/113-2/ds3/streaming/openai-realtime-console/server/orchestrator_backup_0506.js
+/Users/ericsunkuan/Desktop/NTUEE/113-2/ds3/streaming/openai-realtime-console/server/orchestrator_backup_0506_2.js
+
+# chat audio recordings
+recordings/
+
