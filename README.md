@@ -1,6 +1,6 @@
-# OpenAI Realtime Console
+# OpenAI Realtime Console Streaming Arena
 
-This is an example application showing how to use the [OpenAI Realtime API](https://platform.openai.com/docs/guides/realtime) with [WebRTC](https://platform.openai.com/docs/guides/realtime-webrtc).
+This is an modified application from the [OpenAI Realtime API](https://platform.openai.com/docs/guides/realtime) with [WebRTC](https://platform.openai.com/docs/guides/realtime-webrtc).
 
 ## Installation and usage
 
@@ -14,6 +14,7 @@ Running this application locally requires [Node.js](https://nodejs.org/) to be i
 
 ```bash
 npm install
+npm install ws wav uuid react-router-dom
 ```
 
 Start the application server with:
@@ -22,7 +23,26 @@ Start the application server with:
 npm run dev
 ```
 
-This should start the console application on [http://localhost:3000](http://localhost:3000).
+This should start the console application on [http://localhost:3000](http://localhost:3000). (Currently modified to not yet finished)
+
+
+To truly begin the conversation, on another terminal, run :
+
+```bash
+curl -X POST http://localhost:3000/arena/start
+```
+
+To stop the conversation and record the audio, on another terminal, run :
+
+```bash
+curl -X POST http://localhost:3000/arena/stop 
+```
+
+
+
+
+
+
 
 This application is a minimal template that uses [express](https://expressjs.com/) to serve the React frontend contained in the [`/client`](./client) folder. The server is configured to use [vite](https://vitejs.dev/) to build the React frontend.
 
