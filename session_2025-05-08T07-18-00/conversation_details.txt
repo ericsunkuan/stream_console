@@ -1,0 +1,14 @@
+Topic:
+**Scenario: Midnight Bistro Debate**
+
+In a Parisian midnight bistro crowded with vibrant characters, Speaker 1—a passionate culinary historian—debates with Speaker 2, a modernist chef, over the true essence of French cuisine. Surrounded by steaming bowls of bouillabaisse and clinking glasses, Speaker 1 argues for the preservation of classic recipes, emphasizing tradition and authenticity. Meanwhile, Speaker 2 advocates for innovation, claiming fusion and experimentation breathes new life into the old ways. Each tries to sway the patrons’ votes for an upcoming culinary festival. Tensions simmer as they vie for the title of "Gourmet Genius" in an environment as rich and layered as the food itself.
+
+Speaker 1 Transcript:
+
+
+Speaker 2 Transcript:
+
+
+Average Scores:
+Speaker 1: 8.86
+Speaker 2: 8.00
